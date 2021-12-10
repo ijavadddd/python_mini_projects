@@ -42,9 +42,9 @@ menuItemsFrame.pack()
 menuItemsFrame.place(width=sidebarFrameWidth,height=300,y=50)
 
 
-DateConvertLabel=Label(master=menuItemsFrame,text='Convert date',font=('','13'),bg='#d6d6d6',fg='#000')
-DateConvertLabel.pack()
-DateConvertLabel.place(y=10)
+# DateConvertLabel=Label(master=menuItemsFrame,text='Convert date',font=('','13'),bg='#d6d6d6',fg='#000')
+# DateConvertLabel.pack()
+# DateConvertLabel.place(y=10)
 
 goToLabel=Label(master=menuItemsFrame,text='Go to :',font=('','17'),bg='#d6d6d6',fg='#000')
 goToLabel.pack()
